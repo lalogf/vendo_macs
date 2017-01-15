@@ -2,6 +2,9 @@
 
 ## Macbook Air - 13''
 
+
+![](https://raw.githubusercontent.com/lalogf/vendo_macs/master/Macbook_air/IMG_3534.JPG)
+
 * **Modelo:** Mid 2012
 * **Procesador:** 1.8 GHZ Intel Core i5
 * **RAM:** 8GB
