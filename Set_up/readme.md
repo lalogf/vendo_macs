@@ -1,4 +1,4 @@
-#Instructiones
+#Instrucciones
 * Instalar Xcode or Command Line Tools
 * Instalar Homebrew (Software Package Manager for Mac)
 * Instalar GIT
@@ -8,7 +8,7 @@
 ##Instalar Command Line Tools 
 
 * Abre la aplicación Terminal
-* En terminal tipear `xcode-select --install` , aparecerá una nueva ventand e instalador.
+* En terminal tipear `xcode-select --install` , aparecerá una nueva ventana con el instalador.
 
 
 ##Instalar Homebrew
