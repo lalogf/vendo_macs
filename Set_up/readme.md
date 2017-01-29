@@ -71,3 +71,11 @@ Verifica la instalación:
 
 * Para **Node** ingresa `node -v ` en Terminal. Debería imprimir el número de versión de Node, algo como: v0.10.31.
 * Para **NPM** ingresaß: ` npm -v ` en Terminal. Debería imprimir el número de versión de NPM, algo como:  1.4.27
+
+
+
+
+
+
+
+*Adaptado de : [General Assembly Installfest](https://github.com/wdi-sf-july/installfest)*
